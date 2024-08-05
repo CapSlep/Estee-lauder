@@ -63,15 +63,15 @@ class Notify {
 const data = [
     {
         name: "Vernay Vio****",
-        address: "Αθηνα, Ελλάδα",
-        desc: "Πήρα την Estee Lauder μου",
+        address: "Madrid, España",
+        desc: "Tengo mi estee lauder",
         img: "./assets/prizebox2.png",
         time: "15 sec",
     },
     {
         name: "Solaina La****",
-        address: "Θεσσαλονίκη, Ελλάδα",
-        desc: "Πήρα την Estee Lauder μου.",
+        address: "Valencia, España",
+        desc: "Tengo mi Estee Lauder.",
         img: "./assets/prizebox2.png",
         time: "25 sec",
     },
